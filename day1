@@ -1,0 +1,26 @@
+<html>
+<head>
+    <style>
+        <!--internal-->
+        h1 {
+            border: solid gray;
+        }
+    
+        
+    </style>
+    <!--external link-->
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+    <body>
+        <!--inline-->
+        <div style="background-color: gray; padding: 12px;">
+        <h1 style="background-color: gray;">lets ubgrade</h1>
+        <span>hellow world</span>
+       
+      <p>html is stands for </p>
+      <p>hyper text markup language</p>
+      <p>it is a collection of web pages</p>
+        </div>
+        </body>
+</html>
